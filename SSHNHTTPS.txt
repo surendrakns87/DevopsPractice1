@@ -1,0 +1,5 @@
+SSH - Secure Shell
+HTTPS - HyperText Transfer Protocal
+Compare to HTTPS, SSH is more secure because
+1) SSH is Symmetric Encryption and It transer data or file to login with secure key transfer mode from server to another system
+2) HTTPS is asymeetric Ecryption and it transer data from server to webbrower
